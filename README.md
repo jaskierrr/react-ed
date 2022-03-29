@@ -1,5 +1,5 @@
-#Training project
+# Training project
 
-##npm install
+## npm install
 
-##npm start
+## npm start
